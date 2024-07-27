@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "941667670947",
+    "project_id": "visigate-8becd",
+    "storage_bucket": "visigate-8becd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941667670947:android:f19a438a87f0029f345816",
+        "android_client_info": {
+          "package_name": "com.mycompany.visigate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941667670947-5f1uihsbak2oqga3di53h9dc6lb46i6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.visigate",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "941667670947-vmk8bdh6006cv0cm170oa0kstfp7qed8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-rOSnLiqKHWn0e7eMh2N3AmLCHvhUTbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941667670947-vmk8bdh6006cv0cm170oa0kstfp7qed8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941667670947-lls288vhktu24gsoppo0kapj5i7s0oht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.visigate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941667670947:android:204ed4c3dd8770b3345816",
+        "android_client_info": {
+          "package_name": "com.visigate.security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941667670947-vet4i8n0qre08clo6rp0em40dc89vvfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.visigate.security",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "941667670947-vmk8bdh6006cv0cm170oa0kstfp7qed8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-rOSnLiqKHWn0e7eMh2N3AmLCHvhUTbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941667670947-vmk8bdh6006cv0cm170oa0kstfp7qed8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941667670947-lls288vhktu24gsoppo0kapj5i7s0oht.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.visigate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

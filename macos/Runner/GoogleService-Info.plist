@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>941667670947-lls288vhktu24gsoppo0kapj5i7s0oht.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.941667670947-lls288vhktu24gsoppo0kapj5i7s0oht</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>941667670947-5f1uihsbak2oqga3di53h9dc6lb46i6a.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChp8dkGJ3LE_dPLIz3QP2RGAOPiTsUpJs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>941667670947</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.visigate</string>
+	<key>PROJECT_ID</key>
+	<string>visigate-8becd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>visigate-8becd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:941667670947:ios:72a855de3f680833345816</string>
+</dict>
+</plist>
